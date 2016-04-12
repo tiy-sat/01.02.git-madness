@@ -5,10 +5,8 @@
 Add your restaurant reviews below - all in the same file! Use a format like:
 
 
-### Restaurant Name
 ###Delicious Garden
 
-#Review goes here.
 Excellent Chinese food, at a reasonable price. Great service.
 
 ### Green
@@ -23,11 +21,10 @@ If I could eat there every day (and not get fat) I would
 ### Pasha
 Fantasticly grainy. no stale bread. best pita.
 
+### Pasha 2
+
+The hummus is really good
 
 ### Earth burger
 
 You can't tell it's not meat!
-
-## Pasha
-
-The hummus is really good
