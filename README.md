@@ -4,11 +4,9 @@
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-### Restaurant Name
+### Green
 
-Review goes here.
-
-Another review if two people review the same restaurant.
+Green is good. My favorite thing there is the protein bowl with lots of tofu and kale. 
 
 ### Next restaurant Name
 
