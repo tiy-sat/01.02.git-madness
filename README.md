@@ -5,13 +5,13 @@
 Add your restaurant reviews below - all in the same file! Use a format like:
 
 ### Restaurant Name
+Delicious Garden
 
-Review goes here.
-
-Another review if two people review the same restaurant.
+#Review goes here.
+Excellent Chinese food, at a reasonable price. Great service. 
 
 ### Next restaurant Name
 
-...etc.
+
 
 ## Reviews
