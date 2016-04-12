@@ -1,4 +1,4 @@
-# 01.02.git-madness
+h# 01.02.git-madness
 
 ## Instructions
 
@@ -28,3 +28,14 @@ The hummus is really good
 ### Earth burger
 
 You can't tell it's not meat!
+<<<<<<< HEAD
+=======
+
+## Pasha
+
+The hummus is really good
+
+## Tong's thai
+
+Best bobba tea.
+>>>>>>> master
