@@ -12,3 +12,7 @@ Great food with reasonable prices. The Pad Thai is the best in the city.
 ### Bill Miller
 
 Sugar tea is great.
+
+### Cheddars
+
+Good food with good prices. Dinner for two and appetizer for under $30.
