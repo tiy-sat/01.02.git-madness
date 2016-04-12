@@ -4,14 +4,18 @@
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-### Restaurant Name
+### Davids' Subway Dogs
 
-Review goes here.
+Excellent hotdogs with all different types of toppings.
 
-Another review if two people review the same restaurant.
+The only con about the dog is that no drinks are being served.
 
-### Next restaurant Name
+### Diablos' tasty burgers
 
-...etc.
+Hot and honest burgers served with ketchup and mustards.
+
+Con is that you will received heartburn
+
+
 
 ## Reviews
