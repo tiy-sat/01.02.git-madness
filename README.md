@@ -2,16 +2,8 @@
 
 ## Instructions
 
-Add your restaurant reviews below - all in the same file! Use a format like:
+#This is Jimmy's second review
 
-### Restaurant Name
+### Cheddars
 
-Review goes here.
-
-Another review if two people review the same restaurant.
-
-### Next restaurant Name
-
-...etc.
-
-## Reviews
+Good food with good prices. Dinner for two and appetizer for under $30.
