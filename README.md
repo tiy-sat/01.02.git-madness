@@ -29,6 +29,10 @@ Hot and honest burgers served with ketchup and mustards.
 
 Con is that you will received heartburn
 
+### Torch's Tacos
+
+Menu is filled with original and new recipes.
+
 
 
 ## Reviews
