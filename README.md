@@ -5,10 +5,13 @@ h# 01.02.git-madness
 Add your restaurant reviews below - all in the same file! Use a format like:
 
 
+<<<<<<< HEAD
 ### Restaurant Name
 Delicious Garden
+=======
+###Delicious Garden
+>>>>>>> 0751dea9511539de432ac7117bd9d6f43c5734d1
 
-#Review goes here.
 Excellent Chinese food, at a reasonable price. Great service.
 
 ### Green
@@ -25,10 +28,23 @@ Fantasticly grainy. no stale bread. best pita.
 <<<<<<< HEAD
 =======
 
+### Pasha 2
+
+The hummus is really good
 
 ### Earth burger
 
 You can't tell it's not meat!
+<<<<<<< HEAD
+=======
+
+## Tong's Thai
+Best bobba tea in town!
+
+## Local
+Great coffee.
+
+## Reviews
 
 ## Pasha
 
