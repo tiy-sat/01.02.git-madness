@@ -4,53 +4,34 @@ h# 01.02.git-madness
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-
-<<<<<<< HEAD
-### Restaurant Name
-Delicious Garden
-=======
 ###Delicious Garden
->>>>>>> 0751dea9511539de432ac7117bd9d6f43c5734d1
 
-Excellent Chinese food, at a reasonable price. Great service.
+1. Excellent Chinese food, at a reasonable price. Great service.
 
 ### Green
 
-Green is good. My favorite thing there is the protein bowl with lots of tofu and kale.
-
-Green is green, no red meat....
-### Next restaurant Name
-Pasha
+1. Green is good. My favorite thing there is the protein bowl with lots of tofu and kale.
+2. Green is green, no red meat....
 
 
-## Reviews
-Fantasticly grainy. no stale bread. best pita.
-<<<<<<< HEAD
-=======
+### Local
 
-### Pasha 2
+1. Great coffee.
 
-The hummus is really good
+
+###Pasha
+
+1. Good gyro's, great atmosphere.
+2. The hummus is really good.
+
 
 ### Earth burger
 
-You can't tell it's not meat!
-<<<<<<< HEAD
-=======
+1. You can't tell it's not meat!
+2. You can tell that it is pretty damn good though!
 
-## Tong's Thai
-Best bobba tea in town!
 
-## Local
-Great coffee.
+### Tong's Thai
 
-## Reviews
-
-## Pasha
-
-The hummus is really good
-
-## Tong's thai
-
-Best bobba tea.
->>>>>>> master
+1. Best bobba tea.
+1. Their curry will make you cry.
