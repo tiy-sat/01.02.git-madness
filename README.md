@@ -1,4 +1,4 @@
-# 01.02.git-madness
+h# 01.02.git-madness
 
 ## Instructions
 
@@ -22,3 +22,19 @@ Pasha
 
 ## Reviews
 Fantasticly grainy. no stale bread. best pita.
+<<<<<<< HEAD
+=======
+
+
+### Earth burger
+
+You can't tell it's not meat!
+
+## Pasha
+
+The hummus is really good
+
+## Tong's thai
+
+Best bobba tea.
+>>>>>>> master
