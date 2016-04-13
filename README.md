@@ -1,17 +1,39 @@
-# 01.02.git-madness
+h# 01.02.git-madness
 
 ## Instructions
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-### Restaurant Name
 
-Review goes here.
+###Delicious Garden
 
-Another review if two people review the same restaurant.
+Excellent Chinese food, at a reasonable price. Great service.
 
-### Next restaurant Name
+### Green
 
-...etc.
+Green is good. My favorite thing there is the protein bowl with lots of tofu and kale.
 
-## Reviews
+
+### Whiskey Cake
+
+If I could eat there every day (and not get fat) I would
+
+### Pasha
+Fantasticly grainy. no stale bread. best pita.
+
+### Pasha 2
+
+The hummus is really good
+
+### Earth burger
+
+You can't tell it's not meat!
+
+
+## Pasha
+
+The hummus is really good
+
+## Tong's thai
+
+Best bobba tea.
