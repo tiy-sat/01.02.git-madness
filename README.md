@@ -2,16 +2,38 @@
 
 ## Instructions
 
-Add your restaurant reviews below - all in the same file! Use a format like:
+#This is Ernie's second review
 
-### Restaurant Name
+### Pashas
 
-Review goes here.
+<<<<<<< HEAD
+Good food with good prices. Dinner with affordable prices.
+=======
+### Chipotle
 
-Another review if two people review the same restaurant.
+Fast Mexican food with reasonable prices. Great service.
 
-### Next restaurant Name
+### Bill Miller
 
-...etc.
+Sugar tea is great.
+
+### Davids' Subway Dogs
+
+Excellent hotdogs with all different types of toppings.
+
+The only con about the dog is that no drinks are being served.
+
+### Diablos' tasty burgers
+
+Hot and honest burgers served with ketchup and mustards.
+
+Con is that you will received heartburn
+
+### Torch's Tacos
+
+Menu is filled with original and new recipes.
+
+
 
 ## Reviews
+>>>>>>> master
