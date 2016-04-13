@@ -2,12 +2,12 @@
 
 ## Instructions
 
-#This is Jimmy's second review
+#This is Ernie's second review
 
-### Cheddars
+### Pashas
 
 <<<<<<< HEAD
-Good food with good prices. Dinner for two and appetizer for under $30.
+Good food with good prices. Dinner with affordable prices.
 =======
 ### Chipotle
 
