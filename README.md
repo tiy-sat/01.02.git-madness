@@ -2,9 +2,13 @@
 
 ## Instructions
 
-Add your restaurant reviews below - all in the same file! Use a format like:
+#This is Jimmy's second review
 
+### Cheddars
 
+<<<<<<< HEAD
+Good food with good prices. Dinner for two and appetizer for under $30.
+=======
 ### Chipotle
 
 Fast Mexican food with reasonable prices. Great service.
@@ -28,3 +32,4 @@ Con is that you will received heartburn
 
 
 ## Reviews
+>>>>>>> master
