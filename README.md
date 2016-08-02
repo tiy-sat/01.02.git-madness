@@ -4,9 +4,9 @@
 
 Add your restaurant reviews below - all in the same file! Use a format like:
 
-### Restaurant Name
+###  Wataburger 
 
-Review goes here.
+Sweet burgers and shit, love this place #squadgoals.
 
 Another review if two people review the same restaurant.
 
@@ -14,4 +14,4 @@ Another review if two people review the same restaurant.
 
 ...etc.
 
-## Reviews
+## Revie
