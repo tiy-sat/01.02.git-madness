@@ -10,8 +10,8 @@ Add your restaurant reviews below - all in the same file! Use a format like:
 
   Awesome environment and great service, very family friendly!
 
-### Next restaurant Name
+### Nama Ramen
 
-...etc.
+  Nama Ramen was one of my favorite spots to go to for ramen and sushi. Since they were open late and right down the street from where I worked, they were a perfect late night sit down restaurant to hang out in. They have cool paintings of popular anime characters on the wall and are BYOB
 
 ## Reviews
