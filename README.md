@@ -8,7 +8,7 @@ Add your restaurant reviews below - all in the same file! Use a format like:
 
   Pappadeaux is a great seafood restaurant with a New Orleans flare.
 
-  Awesome 
+  Awesome environment and great service, very family friendly!
 
 ### Next restaurant Name
 
